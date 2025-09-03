@@ -1,1 +1,1 @@
-# compiler_design
+# compiler-design-lab
